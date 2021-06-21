@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(pregui1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  Reading Qt configuration (D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin\qmake.exe)
-C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(pregui1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-C:\Users\DeepDive\AppData\Local\QtMsBuild\rcc\qtrcc.targets(116,5): error MSB3073: 命令“"D:\Qt\Qt5.14.2\5.14.2\msvc2017_64\bin\rcc.exe" --list "PL.qrc" > "x64\Debug\rcc_list.txt" 2> nul”已退出，代码为 1。
