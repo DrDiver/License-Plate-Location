@@ -1,0 +1,3 @@
+﻿  Preview3.cpp
+c:\users\deepdive\source\repos\preview3\preview3\preview3.cpp(21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Preview3.vcxproj -> C:\Users\DeepDive\source\repos\Preview3\x64\Debug\Preview3.exe
