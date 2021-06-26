@@ -12,4 +12,10 @@ Qt 5.14.2
 
 ![p0 (2)](https://user-images.githubusercontent.com/57578729/122718624-be57f300-d29f-11eb-9c31-7964dc037206.png)
 
+二、实现过程
+==============
+1.颜色识别
+
+![p01](https://user-images.githubusercontent.com/57578729/123499162-3ab75100-d667-11eb-9d6f-dd8cd1474e5b.png)
+
 
