@@ -18,4 +18,9 @@ Qt 5.14.2
 
 ![p01](https://user-images.githubusercontent.com/57578729/123499162-3ab75100-d667-11eb-9d6f-dd8cd1474e5b.png)
 
+2.边缘识别
+
+![p02](https://user-images.githubusercontent.com/57578729/123499201-97b30700-d667-11eb-9140-706d4c933de1.png)
+
+
 
